@@ -6,8 +6,10 @@ public class AtitCode1 {
 
         int column=0;
         column++;
+        column++;
+        column++;
         incColumnValue(column);
-        System.out.println("column: "+ column);
+        System.out.println("column: "+ column); 
     }
 
     private static void incColumnValue(int column){
