@@ -7,12 +7,7 @@ public class Incremental {
         int column=0;
         column++;
         column++;
-        column++;
-        column++;
-        column++;
-        column++;
-        column++;
-        column++;
+
         incColumnValue(column);
         System.out.println("column: "+ column);
     }
