@@ -17,6 +17,8 @@ public class AtitCode1 {
         column++;
         column++;
         column++;
+        column++;
+        column++;
     }
 
 }
