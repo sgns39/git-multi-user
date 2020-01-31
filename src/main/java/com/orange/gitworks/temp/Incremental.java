@@ -8,6 +8,7 @@ public class Incremental {
         column++;
         column++;
         System.out.println("First Commit");
+        System.out.println("Second Commit");
 
         incColumnValue(column);
         System.out.println("column: "+ column);
