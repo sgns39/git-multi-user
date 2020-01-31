@@ -9,6 +9,8 @@ public class Incremental {
         column++;
         column++;
         column++;
+        column++;
+        column++;
         incColumnValue(column);
         System.out.println("column: "+ column);
     }

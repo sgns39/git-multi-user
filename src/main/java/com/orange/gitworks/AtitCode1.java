@@ -15,6 +15,8 @@ public class AtitCode1 {
     private static void incColumnValue(int column){
         column++;
         column++;
+        column++;
+        column++;
     }
 
 }
